@@ -9,7 +9,7 @@
 
 <h3 align ="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/federico-pelourson" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-pelourson " altura = "30"ancho="40" /></a>
+<a href="https://linkedin.com/in/federico-pelourson" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-pelourson " altura = "10"ancho="20" /></a>
 <a href="https://fb.com/fpelourson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="fpelourson" height="30" width="40" /></a> </p>
 <
 
