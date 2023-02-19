@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https:/ /desarrollowebfp.com/](https://desarrollowebfp.com/)
 
-- 💬 Pregúntame sobre **HTML,CSS, JavaScript y Ractjs**
+- 💬 Pregúntame sobre **HTML,CSS y JavaScript**
 
 - 📫 Cómo contactarme **fede_pelourson@hotmail.com**
 
