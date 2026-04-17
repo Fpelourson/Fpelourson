@@ -14,7 +14,7 @@
 <br>
 
 
-Connect with me
+### Connect with me
 <p align="center">
 	<a href="mailto:peloursonfederico@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https:www.linkedin.com/in/federico-pelourson"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/</a>
@@ -34,7 +34,7 @@ Connect with me
   </a>
 	&emsp;
   <a href="https:https://www.typescriptlang.org/" target="_blank">
-    <img alt="typescript" src="https://blog.devgenius.io/mastering-typescript-a-guide-to-function-annotations-883353461715">
+    <img alt="typescript" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo-1024x576.png">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
