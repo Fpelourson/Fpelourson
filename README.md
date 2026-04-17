@@ -34,7 +34,8 @@
   </a>
 	&emsp;
   <a href="https:https://www.typescriptlang.org/" target="_blank">
-    <img alt="typescript" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo-1024x576.png">
+    <img alt="typescript" src="https://img.shields.io/badge/https%3A%2F%2Fcdn.thenewstack.io%2Fmedia%2F2022%2F01%2F10b88c68-typescript-logo-1024x576.png
+">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
