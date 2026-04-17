@@ -11,7 +11,7 @@ Me enfoco en construir aplicaciones con buena experiencia de usuario, código li
 🔧 Trabajo con: Git y control de versiones
 🎯 Buscando oportunidades como Frontend Developer
 🧩 Proyectos destacados
-<br/>
+
 🔹 Frontend App (React + Vite)
 
 Aplicación web moderna enfocada en rendimiento y experiencia de usuario.
@@ -24,7 +24,6 @@ Objetivo: mostrar arquitectura frontend escalable
 
 🔹 UI / Landing Page
 
-<br/>
 
 Diseño responsive con foco en estética y accesibilidad.
 
@@ -34,7 +33,6 @@ Objetivo: demostrar habilidades de maquetación
 
 👉 https://github.com/Fpelourson/Product-list-with-cart
 
-<br/>
 
 🔹 Proyecto con lógica (API o estado)
 
